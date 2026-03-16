@@ -1,0 +1,17 @@
+﻿database:
+  host: localhost
+  port: 5432
+  name: stockdb
+  user: admin
+  password: password
+
+data_sources:
+  yahoo: true
+  screener: true
+  nse: true
+
+screening_rules:
+  pe: 25
+  roe: 15
+  roce: 15
+  debt_equity: 0.5
