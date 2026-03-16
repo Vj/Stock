@@ -1,0 +1,1 @@
+﻿"""Allocation model stubs."""
