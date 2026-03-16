@@ -1,0 +1,13 @@
+﻿pandas
+numpy
+yfinance
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+psycopg2
+streamlit
+scikit-learn
+pyyaml
+duckdb
+pytest
